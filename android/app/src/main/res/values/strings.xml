@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VibeMixer</string>
+    <string name="title_activity_main">VibeMixer</string>
+    <string name="package_name">com.tonykoko.vmx</string>
+    <string name="custom_url_scheme">com.tonykoko.vmx</string>
+</resources>
